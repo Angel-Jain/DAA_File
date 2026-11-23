@@ -17,9 +17,9 @@
 
 <br><br>
 
-**Student Name:** Poorvaditya
+**Student Name:** Angel Jain
 <br>
-**Enrollment Number:** 240153
+**Enrollment Number:** 240020
 
 <br>
 
@@ -340,7 +340,7 @@ while True:
 
 ## Sample Output
 
-<img width="267" height="610" alt="image" src="https://github.com/user-attachments/assets/5c54336a-13ad-48ea-aedf-4ebdd6412f98" />
+<img width="267" height="610" alt="image" src=""C:\Users\Angel Jain\Pictures\Screenshots\Screenshot 2026-11-23 141214.png"" />
 
 
 
