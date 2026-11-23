@@ -340,7 +340,7 @@ while True:
 
 ## Sample Output
 
-<img width="267" height="610" alt="image" src=""C:\Users\Angel Jain\Pictures\Screenshots\Screenshot 2026-11-23 141214.png"" />
+<img width="267" height="610" alt="image" src="C:\Users\Angel Jain\Pictures\Screenshots\Screenshot 2026-11-23 141214.png" />
 
 
 
