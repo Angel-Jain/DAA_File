@@ -340,7 +340,8 @@ while True:
 
 ## Sample Output
 
-<img width="267" height="610" alt="image" src="C:\Users\Angel Jain\Pictures\Screenshots\Screenshot 2026-11-23 141214.png" />
+<img width="311" height="741" alt="image" src="https://github.com/user-attachments/assets/9c005ad4-332d-4a01-b923-76652a7b8013" />
+
 
 
 
@@ -373,7 +374,8 @@ plt.show()
 ```
 
 ## Sample Output
-<img width="650" height="568" alt="image" src="https://github.com/user-attachments/assets/80c5a819-ff38-4372-8506-7911571d1251" />
+<img width="801" height="700" alt="image" src="https://github.com/user-attachments/assets/41db795a-9e88-414f-880b-d3b4e2b95922" />
+
 
 
 [Back to Index](#index)
@@ -408,7 +410,8 @@ print("Execution time:", end - start, "seconds")
 ```
 
 ## Sample Output
-<img width="404" height="48" alt="image" src="https://github.com/user-attachments/assets/f03c0542-f725-49ab-af38-e11fd8d84a90" />
+<img width="485" height="43" alt="image" src="https://github.com/user-attachments/assets/6cf208e7-2f9e-4843-ab6d-daaf463f67f8" />
+
 
 [Back to Index](#index)
 
@@ -441,7 +444,8 @@ tracemalloc.stop()
 ```
 
 ## Sample Output
-<img width="293" height="44" alt="image" src="https://github.com/user-attachments/assets/b224d48a-2a22-4a9b-be7a-86164e3d3479" />
+<img width="347" height="38" alt="image" src="https://github.com/user-attachments/assets/adb085c1-15f7-4284-9b14-db8ea4df9815" />
+
 
 
 [Back to Index](#index)
@@ -505,7 +509,7 @@ exponential(n)
 ```
 
 ## Sample Output
-<img width="255" height="110" alt="image" src="https://github.com/user-attachments/assets/5064364f-6706-4ba0-bcf1-9b05acfa7905" />
+<img width="306" height="124" alt="image" src="https://github.com/user-attachments/assets/30f6dddd-182a-4560-afab-0810bd9f9d02" />
 
 
 [Back to Index](#index)
@@ -535,7 +539,8 @@ else:
 ```
 
 ## Sample Output
-<img width="448" height="68" alt="image" src="https://github.com/user-attachments/assets/ddaf9442-0294-4c59-850c-198bccc1b3ab" />
+<img width="545" height="75" alt="image" src="https://github.com/user-attachments/assets/8cf2315e-bb7f-4a10-8c32-21c825c06ff0" />
+
 
 
 [Back to Index](#index)
@@ -574,7 +579,8 @@ else:
 ```
 
 ## Sample Output
-<img width="472" height="71" alt="image" src="https://github.com/user-attachments/assets/e8700bb2-b2ae-4978-a59c-f0ad1f80ef9c" />
+<img width="574" height="75" alt="image" src="https://github.com/user-attachments/assets/cd427bcf-e82b-4550-a1cd-21125dce3cf4" />
+
 
 
 [Back to Index](#index)
@@ -603,7 +609,8 @@ print("Largest element:", largest)
 ```
 
 ## Sample Output
-<img width="441" height="47" alt="image" src="https://github.com/user-attachments/assets/08693daa-bd5a-4040-9ad3-eb783ccf9102" />
+<img width="534" height="48" alt="image" src="https://github.com/user-attachments/assets/10b1f9f6-d172-4218-b227-a88453fc9955" />
+
 
 
 [Back to Index](#index)
@@ -632,8 +639,8 @@ for num in arr:
 print("Smallest element:", smallest)
 ```
 
-## Sample Output
-<img width="507" height="45" alt="image" src="https://github.com/user-attachments/assets/aac82278-3b1e-48c9-974a-0cd5e2902e03" />
+<img width="618" height="41" alt="image" src="https://github.com/user-attachments/assets/55f68273-ff41-4875-9169-2fe2fc8a721c" />
+
 
 
 [Back to Index](#index)
@@ -672,7 +679,8 @@ print("Descending order:", desc)
 ```
 
 ## Sample Output
-<img width="516" height="71" alt="image" src="https://github.com/user-attachments/assets/69132e02-7142-4df2-a632-a46a6919de94" />
+<img width="621" height="77" alt="image" src="https://github.com/user-attachments/assets/2143e72d-9eac-4a62-a49a-f7477ffafdbd" />
+
 
 
 [Back to Index](#index)
@@ -708,7 +716,8 @@ print("Sorted array:", quick_sort(arr))
 ```
 
 ## Sample Output
-<img width="515" height="47" alt="image" src="https://github.com/user-attachments/assets/e8ce74d5-f890-42a8-b2a1-e6235d82bffe" />
+<img width="625" height="47" alt="image" src="https://github.com/user-attachments/assets/4a1c79fa-3418-4941-b014-648d073a89c6" />
+
 
 
 [Back to Index](#index)
@@ -755,7 +764,8 @@ print("Sorted array:", merge_sort(arr))
 ```
 
 ## Sample Output
-<img width="447" height="45" alt="image" src="https://github.com/user-attachments/assets/c55aeb22-f237-428c-b330-6313bd85aa73" />
+<img width="538" height="43" alt="image" src="https://github.com/user-attachments/assets/16ade3ee-f4ce-4955-8124-7775854109ce" />
+
 
 
 [Back to Index](#index)
@@ -789,7 +799,8 @@ print("Sorted array:", arr)
 ```
 
 ## Sample Output
-<img width="452" height="55" alt="image" src="https://github.com/user-attachments/assets/f05658f8-2cf2-460a-a85b-e603c2f948ad" />
+<img width="547" height="54" alt="image" src="https://github.com/user-attachments/assets/d6fabc8b-0fd8-455f-99e9-cb4bbff8e0aa" />
+
 
 
 [Back to Index](#index)
@@ -837,7 +848,8 @@ print("Sorted array:", bucket_sort(arr))
 ```
 
 ## Sample Output
-<img width="632" height="50" alt="image" src="https://github.com/user-attachments/assets/bfee1fb8-8196-492a-8e71-3dff1257f6be" />
+<img width="775" height="47" alt="image" src="https://github.com/user-attachments/assets/9164cd4c-e18c-4074-b4e2-102468d8de26" />
+
 
 
 [Back to Index](#index)
@@ -864,7 +876,8 @@ print("Updated array:", arr)
 ```
 
 ## Sample Output
-<img width="465" height="66" alt="image" src="https://github.com/user-attachments/assets/4be2291f-f5fa-451d-9bdf-e1914a41c147" />
+S<img width="567" height="69" alt="image" src="https://github.com/user-attachments/assets/0833ae03-ce42-4118-975b-4936b0c94106" />
+
 
 
 [Back to Index](#index)
@@ -893,7 +906,8 @@ else:
 ```
 
 ## Sample Output
-<img width="442" height="80" alt="image" src="https://github.com/user-attachments/assets/d3695223-3015-488e-9e4a-0657845a0cfd" />
+<img width="538" height="91" alt="image" src="https://github.com/user-attachments/assets/2492b2f6-9a67-4467-876f-bb1a306300e2" />
+
 
 [Back to Index](#index)
 
@@ -922,7 +936,8 @@ else:
 ```
 
 ## Sample Output
-<img width="512" height="85" alt="image" src="https://github.com/user-attachments/assets/5a1cee2c-be6d-4938-b28b-a89f4c6fa621" />
+<img width="620" height="91" alt="image" src="https://github.com/user-attachments/assets/86e18d78-8fce-4875-8ef1-a7bb483b9fa4" />
+
 
 [Back to Index](#index)
 
@@ -950,7 +965,8 @@ else:
 ```
 
 ## Sample Output
-<img width="396" height="66" alt="image" src="https://github.com/user-attachments/assets/e33ac358-74cb-4ea4-a1b9-f7fec3e44bb3" />
+<img width="479" height="65" alt="image" src="https://github.com/user-attachments/assets/606add41-64e2-4091-9d40-275bb82eb43a" />
+
 
 [Back to Index](#index)
 
@@ -982,7 +998,8 @@ else:
 
 ## Sample Output
 
-<img width="777" height="48" alt="image" src="https://github.com/user-attachments/assets/497a622b-da9d-4ab7-b567-1f7a79251f33" />
+<img width="800" height="39" alt="image" src="https://github.com/user-attachments/assets/b9ba8ac5-4074-4647-b9a6-ecb2946f624e" />
+
 
 
 [Back to Index](#index)
@@ -1014,7 +1031,8 @@ else:
 ```
 
 ## Sample Output
-<img width="326" height="55" alt="image" src="https://github.com/user-attachments/assets/9524737c-c2ff-4382-a429-9b8362cd49f6" />
+<img width="392" height="54" alt="image" src="https://github.com/user-attachments/assets/12c60cae-48a1-4c06-ac6e-048e51385d41" />
+
 
 
 [Back to Index](#index)
@@ -1048,7 +1066,7 @@ else:
 ```
 
 ## Sample Output
-<img width="332" height="57" alt="image" src="https://github.com/user-attachments/assets/c42181da-62ad-437b-8cb9-cd65640f1ffe" />
+<img width="400" height="55" alt="image" src="https://github.com/user-attachments/assets/4c2f5818-bca1-4192-919f-57f6034be835" />
 
 
 [Back to Index](#index)
@@ -1097,7 +1115,8 @@ g.display()
 
 ## Sample Output
 
-<img width="242" height="110" alt="image" src="https://github.com/user-attachments/assets/8ef1c600-4d8d-4e3a-8145-b3d193bba260" />
+<img width="289" height="124" alt="image" src="https://github.com/user-attachments/assets/d8a6c94d-8c83-4cd0-bb83-7502d79fcd98" />
+
 
 
 
@@ -1131,8 +1150,8 @@ for vertex, edges in graph.items():
 ```
 
 ## Sample Output
+<img width="213" height="131" alt="image" src="https://github.com/user-attachments/assets/2f6038aa-d4aa-4dfe-bf11-5470e2758f71" />
 
-<img width="180" height="115" alt="image" src="https://github.com/user-attachments/assets/cb9ced25-be8a-44e4-8bc3-8165b87d9863" />
 
 
 
@@ -1176,7 +1195,8 @@ for vertex, edges in graph.items():
 ```
 
 ## Sample Output
-<img width="320" height="312" alt="image" src="https://github.com/user-attachments/assets/fab62215-8172-4433-9965-408d3f76497d" />
+<img width="383" height="374" alt="image" src="https://github.com/user-attachments/assets/0415cc6d-42d8-458e-9c69-acef6bb7808a" />
+
 
 
 [Back to Index](#index)
@@ -1225,7 +1245,8 @@ print()
 ```
 
 ## Sample Output
-<img width="167" height="50" alt="image" src="https://github.com/user-attachments/assets/83e61667-d058-4f9e-af9a-b20457248a08" />
+<img width="189" height="52" alt="image" src="https://github.com/user-attachments/assets/df1f41d3-20ef-4e43-ac80-a8cc5096ae08" />
+
 
 
 
@@ -1268,7 +1289,8 @@ print()
 ```
 
 ## Sample Output
-<img width="177" height="46" alt="image" src="https://github.com/user-attachments/assets/834887d4-31ea-4335-a898-bcc1c929647b" />
+<img width="202" height="46" alt="image" src="https://github.com/user-attachments/assets/1d3a59a7-44ec-43da-9d03-319c8b50abfc" />
+
 
 
 
@@ -1328,7 +1350,8 @@ bellman_ford(vertices, edges, 'A')
 ```
 
 ## Sample Output
-<img width="297" height="107" alt="image" src="https://github.com/user-attachments/assets/3ce22c03-8a33-4487-b989-d5b38d0d5811" />
+<img width="351" height="122" alt="image" src="https://github.com/user-attachments/assets/6f9efd9d-133d-42e5-8220-cb956153fb1f" />
+
 
 
 
@@ -1383,7 +1406,7 @@ dijkstra(graph, 'A')
 ```
 
 ## Sample Output
-<img width="306" height="111" alt="image" src="https://github.com/user-attachments/assets/d363bd1f-77f4-44f9-8e51-59ea5f51855e" />
+<img width="358" height="126" alt="image" src="https://github.com/user-attachments/assets/aae32bec-e061-4152-b2ff-3cf85cf7652a" />
 
 
 
@@ -1434,7 +1457,8 @@ def analyze_complexity():
 analyze_complexity()
 ```
 
-<img width="503" height="375" alt="image" src="https://github.com/user-attachments/assets/db727151-b996-4e10-9fa1-ab7539498fcd" />
+<img width="614" height="461" alt="image" src="https://github.com/user-attachments/assets/09b6daa9-ecc5-458f-850c-22bb78c13138" />
+
 
 
 [Back to Index](#index)
@@ -1522,7 +1546,8 @@ print("Dijkstra's Algorithm:", dijkstra(V, edges, source))
 print("Bellman-Ford Algorithm:",
       bellman_ford(V, edges, source))
 ```
-<img width="466" height="50" alt="image" src="https://github.com/user-attachments/assets/4d05cfc1-9235-49b2-ac9c-725a23f8a025" />
+<img width="565" height="51" alt="image" src="https://github.com/user-attachments/assets/c904c897-37ec-4cf4-8770-a05d183ef38d" />
+
 
 
 [Back to Index](#index)
@@ -1636,7 +1661,8 @@ for name, result in [
     print("Total MST weight:", total)
 ```
 
-<img width="705" height="155" alt="image" src="https://github.com/user-attachments/assets/0b1918d4-07fb-4282-981a-1ca624b8e38a" />
+<img width="800" height="169" alt="image" src="https://github.com/user-attachments/assets/905d33be-c752-4498-b501-3d3ceb915db2" />
+
 
 [Back to Index](#index)
 
@@ -1703,7 +1729,8 @@ def prim_mst(graph, V):
 
 prim_mst(graph, V)
 ```
-<img width="372" height="141" alt="image" src="https://github.com/user-attachments/assets/8627a58f-9871-473d-a6ee-eeff0f9420d6" />
+<img width="441" height="168" alt="image" src="https://github.com/user-attachments/assets/d1674cdb-d66e-485a-b0e4-3304ab902783" />
+
 
 [Back to Index](#index)
 
@@ -1785,7 +1812,8 @@ def kruskal_mst(V, edges):
 
 kruskal_mst(V, edges)
 ```
-<img width="367" height="136" alt="image" src="https://github.com/user-attachments/assets/7b5efe93-6407-4f58-b6c6-5eff61433e58" />
+<img width="436" height="157" alt="image" src="https://github.com/user-attachments/assets/a25fb878-59d8-4d43-aae9-dc6f75ef27a6" />
+
 
 [Back to Index](#index)
 
@@ -1855,7 +1883,8 @@ for u, v, weight in mst:
 
 print("Minimum Total Weight:", total_weight)
 ```
-<img width="330" height="132" alt="image" src="https://github.com/user-attachments/assets/e09c7106-851d-43da-b3ad-e268d982d581" />
+<img width="394" height="158" alt="image" src="https://github.com/user-attachments/assets/ceaad709-a156-4ca8-8c0b-1cb0fd0a056e" />
+
 
 
 [Back to Index](#index)
@@ -1897,7 +1926,8 @@ print("Shortest Distance Matrix:")
 for row in dist:
     print(row)
 ```
-<img width="303" height="106" alt="image" src="https://github.com/user-attachments/assets/8abaf20d-7dc0-49dc-a44d-f775be3d1d67" />
+<img width="359" height="125" alt="image" src="https://github.com/user-attachments/assets/8d59e187-f3ec-4594-a4d4-a5cd32a05660" />
+
 
 [Back to Index](#index)
 
@@ -1948,7 +1978,8 @@ for row in dist:
         for x in row
     ])
 ```
-<img width="515" height="235" alt="image" src="https://github.com/user-attachments/assets/08a198c0-c9f0-4452-81c7-b1b69cabb352" />
+<img width="629" height="282" alt="image" src="https://github.com/user-attachments/assets/ccae97d9-3bc6-4ed2-8190-18b5ae5a7da4" />
+
 
 
 [Back to Index](#index)
@@ -1997,7 +2028,8 @@ else:
     print("Minimum distance:", int(dist[source][destination]))
 ```
 
-<img width="522" height="187" alt="image" src="https://github.com/user-attachments/assets/ced379df-9d99-4ff9-bc15-dba37bfe59d2" />
+<img width="638" height="219" alt="image" src="https://github.com/user-attachments/assets/6e08ce81-06b9-46dd-9c0c-d8a31d3e44be" />
+
 
 [Back to Index](#index)
 
@@ -2061,7 +2093,8 @@ plt.show()
 
 ```
 
-<img width="1683" height="922" alt="image" src="https://github.com/user-attachments/assets/06d80f35-e59d-48f6-b662-a7059c0056e8" />
+<img width="797" height="434" alt="image" src="https://github.com/user-attachments/assets/dd258258-7852-4a76-8c91-09ebe2ca1eae" />
+
 
 [Back to Index](#index)
 
@@ -2124,7 +2157,8 @@ greedy_knapsack(weights, profits, capacity)
 
 ```
 
-<img width="375" height="137" alt="image" src="https://github.com/user-attachments/assets/344aa4c0-e589-4914-b881-202c20efa509" />
+<img width="453" height="160" alt="image" src="https://github.com/user-attachments/assets/bd6942e9-7913-4748-8dbf-560d8772bf64" />
+
 
 [Back to Index](#index)
 
@@ -2210,7 +2244,8 @@ fractional_knapsack(weights, profits, capacity)
 
 ```
 
-<img width="428" height="325" alt="image" src="https://github.com/user-attachments/assets/10346f1b-b752-40d5-b6dd-8ca728984012" />
+<img width="521" height="394" alt="image" src="https://github.com/user-attachments/assets/1bfd7db5-a779-49e3-943b-04a205dc8728" />
+
 
 [Back to Index](#index)
 
